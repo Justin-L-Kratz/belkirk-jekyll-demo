@@ -7,7 +7,7 @@ banner_image: "/uploads/2018/02/17/bridge.jpg"
 hero_button:
   text: ''
   href: ''
-textline: ''
+textline: Lorem ipsum porem dolor sit amet
 services: []
 show_news: false
 partners: []
