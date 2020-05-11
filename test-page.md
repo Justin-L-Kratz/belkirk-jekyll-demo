@@ -16,7 +16,6 @@ menu:
   navigation:
     weight: 6
     title: Test
-published: false
 
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Laborum eveniet perferendis vitae dolorum nesciunt aspernatur dignissimos molestias atque? Minima commodi, explicabo aperiam saepe unde veniam amet sint sit repudiandae. Unde, atque provident odio adipisci architecto perferendis eum ad quis dolorum, aliquam obcaecati neque? Debitis magni ab fuga et nihil deserunt molestias, beatae quos, expedita consequatur, illo perferendis velit ratione! Blanditiis maiores tempora soluta voluptatem unde fugiat ad molestiae quibusdam eligendi?
