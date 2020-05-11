@@ -3,7 +3,7 @@ heading: Belkirk College
 sub_heading: Engineering and Health Sciences
 layout: home
 title: Test
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 hero_button:
   text: ''
   href: ''
