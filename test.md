@@ -12,6 +12,9 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 6
 
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, architecto quibusdam! Fugit cupiditate necessitatibus recusandae repellat praesentium ut possimus voluptate dolores labore repellendus, architecto at enim! Cupiditate fuga maxime, maiores obcaecati quasi, iusto nisi ex doloribus ut, quam non ratione.
