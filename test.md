@@ -12,7 +12,6 @@ services: []
 show_news: false
 partners: []
 show_staff: false
-published: false
 
 ---
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, architecto quibusdam! Fugit cupiditate necessitatibus recusandae repellat praesentium ut possimus voluptate dolores labore repellendus, architecto at enim! Cupiditate fuga maxime, maiores obcaecati quasi, iusto nisi ex doloribus ut, quam non ratione.
